@@ -1,0 +1,20 @@
+{
+  "name": "jasmineframework",
+  "version": "1.0.0",
+  "description": "overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascript": "^1.0.0",
+    "node.js": "^0.0.1-security",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "@types/node": "^17.0.22"
+  }
+}
